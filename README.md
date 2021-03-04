@@ -5,7 +5,7 @@
 
 <h2 align="center" > ✨ 18 anos, Curitiba-Pr ✨ </h2>
 
-<i> Conheça um pouco sobre meus projetos! </i>
+<font size="15px" face="verdana" >Conheça um pouco sobre meus projetos! </font> 
 
 - 📕 Conhecimento básico: Html, Css, Php, Vba, Banco de Dados, Laravel
 - 🌱 Estou estudando: React.js
