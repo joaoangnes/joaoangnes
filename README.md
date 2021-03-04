@@ -1,4 +1,4 @@
-###                                                   <h1>✌ Prazer meu nome é João Arthur ✌ </h1>
+## <center> <h1> Prazer meu nome é João Arthur ✌ </h1> </center>
 
 adadadas
 
