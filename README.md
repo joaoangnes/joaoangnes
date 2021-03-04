@@ -7,14 +7,11 @@
 
 <h3>Conheça um pouco sobre mim! </h3>
 
-- 📕 Conhecimento básico: Html, Css, Php, Vba, Banco de Dados, Laravel
-- 🌱 Estou estudando: React.js
+- 📕 Conhecimento básico: Html, Css, Php, Vba, Banco de Dados, Laravel, Javascript
+- 🌱 Estou buscando conhecimento sobre: React.js
 - 🧠 Formado no ensino médio técnico de informática da TecPuc
-- 📫 Contato: joao.angnes@gmail.com ou (41) 9133-4747
-- ⚡ Fato curiosos: Sou apaixonado por música e gosto de jogar nos tempos livres
-
-
-
+- 📫 Contato: joao.angnes@gmail.com ou (41) 99133-4747
+- ⚡ Fatos curiosos: Sou apaixonado por música e gosto de jogar nos tempos livres
 
 <!--
 **joaoangnes/joaoangnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
