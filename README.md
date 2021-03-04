@@ -5,6 +5,13 @@
 
 <h2 align="center" > ✨ 18 anos, Curitiba-Pr ✨ </h2>
 
+<i> Conheça um pouco sobre meus projetos! </i>
+
+- 📕 Conhecimento básico: Html, Css, Php, Vba, Banco de Dados, Laravel
+- 🌱 Estou estudando: React.js
+- 🧠 Formado no ensino médio técnico de informática da TecPuc
+- 📫 Contato: joao.angnes@gmail.com ou (41) 9133-4747
+- ⚡ Fato curiosos: Sou apaixonado por música e gosto de jogar nos tempos livres
 
 
 
@@ -14,12 +21,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
