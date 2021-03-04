@@ -1,6 +1,6 @@
 ##  <h1 align = "center" fontface = "verdana"> <b> <i>  Olá, meu nome é João Arthur 👋 </b> </i> </h1> 
 
-<h1 align = "center" fontsize = "10px">  18 anos, Curitiba-Pr </h1>
+<h1 align = "center" > <font size="10px" face "verdana"> 18 anos, Curitiba-Pr </font> </h1>
 <h3 align = "center">  Jovem em busca de oportunidades de evoluir na área de programação</h3>
 
 
