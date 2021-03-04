@@ -1,4 +1,4 @@
-##  <h1 align = "center"> <b> <i> Prazer meu nome é João Arthur ✌ </b> </i> </h1> 
+##  <h1 align = "center" fontface = "verdana"> <b> <i>  Olá, meu nome é João Arthur </b> </i> </h1> 
 
 
 
