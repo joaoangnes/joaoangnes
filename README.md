@@ -9,6 +9,7 @@
 
 - 📕 Conhecimento básico: Html, Css, Php, Vba, Banco de Dados, Laravel, Javascript
 - 🌱 Estou buscando conhecimento sobre: React.js
+- 🧠 Cursando Ciências da Computação: 1º Período
 - 🧠 Formado no ensino médio técnico de informática da TecPuc
 - 📫 Contato: joao.angnes@gmail.com ou (41) 99133-4747
 - ⚡ Fatos curiosos: Sou apaixonado por música e gosto de jogar nos tempos livres
