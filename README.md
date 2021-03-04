@@ -3,7 +3,7 @@
 
 <h2 align = "center">  Jovem em busca de oportunidades de evoluir na área de programação!!</h2>
 
-<h6 align="center" > ✨ 18 anos, Curitiba-Pr ✨ </h6>
+<h4 align="center" > ✨ 18 anos, Curitiba-Pr ✨ </h4>
 
 <font size= "30px">Conheça um pouco sobre meus projetos! </font>
 
