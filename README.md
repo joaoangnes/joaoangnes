@@ -1,6 +1,5 @@
-##  <h1 aling = "center"> Prazer meu nome é João Arthur ✌ </h1> 
+##  <h1 align = "center"> <b> <i> Prazer meu nome é João Arthur ✌ </b> </i> </h1> 
 
-<center><font color="red" size="15px"><b><i>Texto centralizado com letra vermelha, tamanho 15px, negrito e itálico.</i></b></font></center>
 
 
 
