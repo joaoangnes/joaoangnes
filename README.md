@@ -7,12 +7,13 @@
 
 <h3>Conheça um pouco sobre mim! </h3>
 
-- 📕 Conhecimento básico: Html, Css, Php, Banco de Dados, React, React Native
+- 📕 Conhecimento básico: Html, Css, Php, Banco de Dados, React, React Native, SQL, PL/SQL
 - 📕 Conhecimento intermediário: Javascript, Vba
 - 🌱 Estou buscando conhecimento sobre: React, React Native
-- 🧠 Cursando Ciências da Computação: 1º Período
+- 🧠 Cursando Ciências da Computação: 3º Período Noite
 - 🧠 Formado no ensino médio técnico de informática da TecPuc
 - 📫 Contato: joao.angnes@gmail.com ou (41) 99133-4747
+- Trabalhando Atualmente como Estágiario na Área de Dev da Trombini Embalagens
 - ⚡ Fatos curiosos: Sou apaixonado por música e gosto de jogar nos tempos livres
 
 <!--
