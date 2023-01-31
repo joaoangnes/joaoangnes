@@ -7,13 +7,13 @@
 
 <h3>Conheça um pouco sobre mim! </h3>
 
-- 📕 Conhecimento básico: Html, Css, Php, Banco de Dados, React, React Native, SQL, PL/SQL
-- 📕 Conhecimento intermediário: Javascript, Vba
-- 🌱 Estou buscando conhecimento sobre: React, React Native
-- 🧠 Cursando Ciências da Computação: 3º Período Noite
+- 📕 Conhecimento básico: Html, Css, Php, React, React Native
+- 📕 Conhecimento superior: Oracle SQL, Oracle PL/SQL, Oracle Forms, EBS R12, Oracle WorkFlow
+- 🌱 Estou buscando conhecimento sobre: Oracle Apex
+- 🧠 Cursando Ciências da Computação: 3º Ano 
 - 🧠 Formado no ensino médio técnico de informática da TecPuc
 - 📫 Contato: joao.angnes@gmail.com ou (41) 99133-4747
-- Trabalhando Atualmente como Estágiario na Área de Dev da Trombini Embalagens
+- Trabalhando Atualmente como Desenvolvedor Oracle na Área de Dev da Trombini Embalagens
 - ⚡ Fatos curiosos: Sou apaixonado por música e gosto de jogar nos tempos livres
 
 <!--
