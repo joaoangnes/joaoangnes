@@ -1,9 +1,9 @@
 ##  <h1 align = "center" fontface = "verdana"> <b> <i>  Olá, meu nome é João Arthur 👋 </b> </i> </h1> 
 
 
-<h2 align = "center">  Jovem em busca de oportunidades de evoluir na área de programação!!</h2>
+<h2 align = "center">  Oracle Developer!!</h2>
 
-<h3 align="center" > ✨ 19 anos, Curitiba-Pr ✨ </h3>
+<h3 align="center" > ✨ 20 anos, Curitiba-Pr ✨ </h3>
 
 <h3>Conheça um pouco sobre mim! </h3>
 
