@@ -7,7 +7,7 @@
 
 <h3>Conheça um pouco sobre mim! </h3>
 
-- 📕 Conhecimento básico: Html, Css, Php, React, React Native
+- 📕 Conhecimento básico: Html, Css, Python
 - 📕 Conhecimento superior: Oracle SQL, Oracle PL/SQL, Oracle Forms, EBS R12, Oracle WorkFlow
 - 🌱 Estou buscando conhecimento sobre: Oracle Apex
 - 🧠 Cursando Ciências da Computação: 3º Ano 
