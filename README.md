@@ -1,20 +1,21 @@
-##  <h1 align = "center" fontface = "verdana"> <b> <i>  Olá, meu nome é João Arthur 👋 </b> </i> </h1> 
+##  <h1 align = "center" fontface = "verdana"> <b> <i>  Hello, my name is João Arthur 👋 </b> </i> </h1> 
 
 
 <h2 align = "center">  Oracle Developer!!</h2>
 
-<h3 align="center" > ✨ 20 anos, Curitiba-Pr ✨ </h3>
+<h3 align="center" > ✨ 20 years, Curitiba-Pr ✨ </h3>
 
-<h3>Conheça um pouco sobre mim! </h3>
+<h3>Get to know a little bit about me!</h3>
 
-- 📕 Conhecimento básico: Html, Css, Python
-- 📕 Conhecimento superior: Oracle SQL, Oracle PL/SQL, Oracle Forms, EBS R12, Oracle WorkFlow
-- 🌱 Estou buscando conhecimento sobre: Oracle Apex
-- 🧠 Cursando Ciências da Computação: 3º Ano 
-- 🧠 Formado no ensino médio técnico de informática da TecPuc
-- 📫 Contato: joao.angnes@gmail.com ou (41) 99133-4747
-- Trabalhando Atualmente como Desenvolvedor Oracle na Área de Dev da Trombini Embalagens
-- ⚡ Fatos curiosos: Sou apaixonado por música e gosto de jogar nos tempos livres
+- 👨‍💻 Oracle Developer with experience in Oracle SQL, Oracle PL/SQL, Oracle Forms, EBS R12, and Oracle Workflow.
+- 📚 I am looking to diversify my knowledge in the field of data science, with a focus on Python and AI.
+- 🌱 Currently focused on expanding my expertise in Oracle Apex.
+- 🎓 Pursuing a Bachelor's degree in Computer Science, currently in the 3rd year.
+- 🎓 Graduated from TecPuc with a Technical High School diploma in Computer Science.
+- 📧 Contact: joao.angnes@gmail.com
+- 📱 Phone: (41) 99133-4747
+- 💼 Currently working as an Oracle Developer in the Development Department at Trombini Embalagens.
+- ⚡ Fun facts: I'm passionate about music.
 
 <!--
 **joaoangnes/joaoangnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
