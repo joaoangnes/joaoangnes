@@ -10,7 +10,7 @@
 - 👨‍💻 Oracle Developer with experience in Oracle SQL, Oracle PL/SQL, Oracle Forms, EBS R12, and Oracle Workflow.
 - 📚 I am looking to diversify my knowledge in the field of data science, with a focus on Python and AI.
 - 🌱 Currently focused on expanding my expertise in Oracle Apex.
-- 🎓 Pursuing a Bachelor's degree in Computer Science, currently in the 3rd year.
+- 🎓 Studying Bachelor's of Computer Science, currently in 3rd period
 - 🎓 Graduated from TecPuc with a Technical High School diploma in Computer Science.
 - 📧 Contact: joao.angnes@gmail.com
 - 📱 Phone: (41) 99133-4747
