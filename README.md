@@ -12,7 +12,7 @@
 
 - 👨‍💻 Oracle Developer with experience in Oracle SQL, Oracle PL/SQL, Oracle Forms, EBS R12, and Oracle Workflow.
 - 📚 I am looking to diversify my knowledge in the field of data science, with a focus on Python and AI.
-- 🎓 Studying Bachelor's of Computer Science, currently in 6rd period
+- 🎓 Studying Bachelor's of Computer Science, currently in 8rd period
 - 🎓 Graduated from TecPuc with a Technical High School diploma in Computer Science.
 - 📧 Contact: joao.angnes@gmail.com
 - 💼 Currently working as an Oracle Developer in the Development Department at Trombini Embalagens.
@@ -50,8 +50,6 @@
   <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <br><br>
-  <span">Tools:</span><br>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 
 <h3>Statistical Data :</h3>
