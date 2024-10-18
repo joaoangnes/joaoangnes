@@ -1,7 +1,7 @@
 ##  <h1 align = "center" fontface = "verdana"> <b> <i> Hey there! I'm João Arthur 👋 </b> </i> </h1> 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Oracle+Developer;20+years%2C+Curitiba-PR" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Oracle+Developer;21+years%2C+Curitiba-PR" alt="Typing SVG" /></a>
 </p>
 
 
