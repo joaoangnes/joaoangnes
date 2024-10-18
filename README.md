@@ -11,11 +11,11 @@
 <h3>👨🏻‍💻 &nbsp;About Me:</h3>
 
 - 👨‍💻 Oracle Developer with experience in Oracle SQL, Oracle PL/SQL, Oracle Forms, EBS R12, and Oracle Workflow.
-- 📚 I am looking to diversify my knowledge in the field of data science, with a focus on Python and AI.
+- 📚 I am looking to diversify my knowledge in the field of data science and data engineering.
 - 🎓 Studying Bachelor's of Computer Science, currently in 8rd period
 - 🎓 Graduated from TecPuc with a Technical High School diploma in Computer Science.
 - 📧 Contact: joao.angnes@gmail.com
-- 💼 Currently working as an Oracle Developer in the Development Department at Trombini Embalagens.
+- 💼 Currently working as an Oracle Developer in the Development Department and starting a migration to the data and AI area at Trombini Embalagens.
 - ⚡ Fun facts: I'm passionate about music.
 
 <p  align="center">
@@ -32,23 +32,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="font-size: 18px; font-weight: bold;">
-  <span>Database:</span><br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <br><br>
-  <span>Machine Learning:</span><br>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <br><br>
-  <span>Back-End:</span><br>
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <br><br>
 </p>
 
@@ -56,7 +45,7 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
  <img height="180em"  width=400 src='https://github-readme-stats.vercel.app/api?username=joaoangnes&theme=gruvbox&show_icons=true&hide_border=true&count_private=true' />
- <img height="180em"  width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaoangnes&theme=gruvbox&show_icons=true&hide_border=true&layout=compact' />
+<!--  <img height="180em"  width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaoangnes&theme=gruvbox&show_icons=true&hide_border=true&layout=compact' /> -->
 </a>
 </p>
 
