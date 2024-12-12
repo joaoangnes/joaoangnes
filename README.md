@@ -1,7 +1,7 @@
 ##  <h1 align = "center" fontface = "verdana"> <b> <i> Hey there! I'm João Arthur 👋 </b> </i> </h1> 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Oracle+Developer;21+years%2C+Curitiba-PR" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Oracle+Developer;22+years%2C+Curitiba-PR" alt="Typing SVG" /></a>
 </p>
 
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 Oracle Developer with experience in Oracle SQL, Oracle PL/SQL, Oracle Forms, EBS R12, and Oracle Workflow.
 - 📚 I am looking to diversify my knowledge in the field of data science and data engineering.
-- 🎓 Studying Bachelor's of Computer Science, currently in 8rd period
+- 🎓 Graduated in Bachelor of Computer Science
 - 🎓 Graduated from TecPuc with a Technical High School diploma in Computer Science.
 - 📧 Contact: joao.angnes@gmail.com
 - 💼 Currently working as an Oracle Developer in the Development Department and starting a migration to the data and AI area at Trombini Embalagens.
