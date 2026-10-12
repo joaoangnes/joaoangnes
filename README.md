@@ -1,61 +1,84 @@
-##  <h1 align = "center" fontface = "verdana"> <b> <i> Hey there! I'm João Arthur 👋 </b> </i> </h1> 
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Oracle+Developer;22+years%2C+Curitiba-PR" alt="Typing SVG" /></a>
-</p>
+# João Arthur Angnes
 
+**Oracle Developer · AI Lead at Trombini Embalagens**
 
-<p><img width="300" height=350"  align="right" src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" alt="adam-pw" /></p>
+Curitiba, Brazil
 
+<a href="https://www.linkedin.com/in/joaoangnes/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:joao.angnes@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<h3>👨🏻‍💻 &nbsp;About Me:</h3>
+</div>
 
-- 👨‍💻 Oracle Developer with experience in Oracle SQL, Oracle PL/SQL, Oracle Forms, EBS R12, and Oracle Workflow.
-- 📚 I am looking to diversify my knowledge in the field of data science and data engineering.
-- 🎓 Graduated in Bachelor of Computer Science
-- 🎓 Graduated from TecPuc with a Technical High School diploma in Computer Science.
-- 📧 Contact: joao.angnes@gmail.com
-- 💼 Currently working as an Oracle Developer in the Development Department and starting a migration to the data and AI area at Trombini Embalagens.
-- ⚡ Fun facts: I'm passionate about music.
+---
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://www.linkedin.com/in/joaoangnes/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## About
 
+Oracle developer with a long track record on enterprise systems, now leading the new **Artificial Intelligence** area at **Trombini Embalagens**. I work on strategic projects that support the company's modernization, bringing AI and data into its processes and systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="font-size: 18px; font-weight: bold;">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-  <br><br>
-</p>
+Outside work, I build my own products in TypeScript and use AI coding agents as part of my daily engineering workflow.
 
-<h3>Statistical Data :</h3>
-<p align="center">
-<a href="https://github.com/AVS1508">
- <img height="180em"  width=400 src='https://github-readme-stats.vercel.app/api?username=joaoangnes&theme=gruvbox&show_icons=true&hide_border=true&count_private=true' />
-<!--  <img height="180em"  width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joaoangnes&theme=gruvbox&show_icons=true&hide_border=true&layout=compact' /> -->
-</a>
-</p>
+- **Current role:** responsible for the AI area at Trombini Embalagens
+- **Background:** Oracle SQL, PL/SQL, Oracle Forms, E-Business Suite R12 and Oracle Workflow
+- **Focus:** applied AI, data engineering and AI-assisted software development
+- **Education:** B.Sc. in Computer Science · Technical High School in Computer Science (TecPUC)
 
+## Tech Stack
 
-<br>
+<div align="center">
 
-<!--
-**joaoangnes/joaoangnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Oracle**
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
+<img src="https://img.shields.io/badge/PL%2FSQL-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL">
+<img src="https://img.shields.io/badge/Oracle_Forms-312D2A?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle Forms">
+<img src="https://img.shields.io/badge/Oracle_EBS_R12-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle EBS R12">
+<img src="https://img.shields.io/badge/Oracle_Workflow-C74634?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Workflow">
 
+**Software & AI**
 
--->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex">
+<img src="https://img.shields.io/badge/AI_Coding_Agents-1F2328?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI Coding Agents">
+
+**Backend & Infra**
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+<img src="https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white" alt="PostHog">
+<img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
+
+</div>
+
+## Featured Projects
+
+### Zizae
+Offline-first PWA for academic and personal organization. Local-first data with a sync engine, reminders and absence tracking.
+`TypeScript` · `React` · `Dexie` · `Supabase` · `Cloudflare Workers`
+
+### Financial Control App
+Personal finance control app that replaces a spreadsheet with a web app. Bank account sync through Open Finance, push notifications and charts for spending analysis.
+`Next.js` · `React` · `TypeScript` · `Supabase` · `Tailwind CSS` · `Pluggy` · `Playwright`
+
+### Spotify Popularity Prediction
+Machine learning model to predict track popularity.
+`Python` · `Jupyter` · [Repository](https://github.com/joaoangnes/spotify_popularity_prediction)
+
+### ASL Classification
+Static American Sign Language alphabet recognition.
+`Python` · `OpenCV` · [Repository](https://github.com/joaoangnes/american_sign_language_classification)
+
+> Zizae and Financial Control App are private repositories.
+
+## Currently
+
+- Leading AI initiatives and strategic projects at Trombini Embalagens
+- Exploring AI coding agents and spec-driven workflows to ship faster with quality
+- Building Zizae end to end, from data model to deploy
